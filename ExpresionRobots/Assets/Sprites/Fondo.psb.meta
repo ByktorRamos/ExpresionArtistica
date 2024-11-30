@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 0c81f531504d0644bb37bac3c86056b3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Arbol copia 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 936
+      y: 2974
+      width: 402
+      height: 1067
+    spriteID: b9d49dfec756d324f92a300bcec88144
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 936, y: 2974}
+    spritePosition: {x: 1518, y: 0}
+  - name: Arbol copia 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1346
+      y: 2974
+      width: 402
+      height: 1067
+    spriteID: 820a85631e7b3a844ba7121ce2eead14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1346, y: 2974}
+    spritePosition: {x: 1518, y: 0}
+  - name: Arbol copia 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2974
+      width: 458
+      height: 1041
+    spriteID: fd65d62c48e4e564293ee9e1d790eb91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2974}
+    spritePosition: {x: 0, y: 0}
+  - name: Arbol copia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 470
+      y: 2974
+      width: 458
+      height: 1041
+    spriteID: 45e6aff6d74032d4ebdd8916e5be08c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 470, y: 2974}
+    spritePosition: {x: 0, y: 0}
+  - name: Arbol
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1164
+      width: 417
+      height: 722
+    spriteID: a63ddfa79989bc942a65fb35a07a77d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1164}
+    spritePosition: {x: 0, y: 64}
+  - name: ArbolCaido
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1410
+      y: 2180
+      width: 450
+      height: 714
+    spriteID: 073e241d09766cd4ea453a8f509040ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1410, y: 2180}
+    spritePosition: {x: 182, y: 94}
+  - name: ArbolCortado
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 455
+      width: 450
+      height: 701
+    spriteID: ef9374011581c6441a12571ac737d23b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 455}
+    spritePosition: {x: 182, y: 107}
+  - name: Tronco
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1894
+      width: 270
+      height: 181
+    spriteID: 750587cd2235a824fbf463c17ea4859d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 1894}
+    spritePosition: {x: 257, y: 94}
+  - name: Lago
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 893
+      height: 443
+    spriteID: 5741f5a53cecbf143bd36195de081a99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1932, y: 4}
+    spritePosition: {x: 1027, y: 328}
+  - name: Arbustos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1756
+      y: 2974
+      width: 139
+      height: 477
+    spriteID: ac6804a38898f0c4fa16af2c149aa566
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1756, y: 2974}
+    spritePosition: {x: 911, y: 335}
+  - name: Camino
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2180
+      width: 1398
+      height: 786
+    spriteID: 092fb92b7f598bd4dbefa419ac676022
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2180}
+    spritePosition: {x: 522, y: 21}
+  - name: Bosque
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: 559f214ee52810f439ccc2222ea6820d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: Fondo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 1080
+    spriteID: eb0ec6464f9a0784f88929cc2883c7ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1092}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Capas
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: e7fe72f78406d9f4fb36e315fee94874
+    layerID: 370
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ArbolesDelante
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 5ad6ea5dd88cbc848a8afb0adc1523ba
+    layerID: 214
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol copia 4
+    spriteName: Arbol copia 4
+    isGroup: 0
+    parentIndex: 1
+    spriteID: b9d49dfec756d324f92a300bcec88144
+    layerID: 213
+    mosaicPosition: {x: 936, y: 2974}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arbol copia 3
+    spriteName: Arbol copia 3
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 820a85631e7b3a844ba7121ce2eead14
+    layerID: 212
+    mosaicPosition: {x: 1346, y: 2974}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arbol copia 2
+    spriteName: Arbol copia 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: fd65d62c48e4e564293ee9e1d790eb91
+    layerID: 211
+    mosaicPosition: {x: 4, y: 2974}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arbol copia
+    spriteName: Arbol copia
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 45e6aff6d74032d4ebdd8916e5be08c4
+    layerID: 210
+    mosaicPosition: {x: 470, y: 2974}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arbol
+    spriteName: Arbol
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a63ddfa79989bc942a65fb35a07a77d7
+    layerID: 369
+    mosaicPosition: {x: 1932, y: 1164}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ArbolCaido
+    spriteName: ArbolCaido
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 073e241d09766cd4ea453a8f509040ee
+    layerID: 374
+    mosaicPosition: {x: 1410, y: 2180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ArbolCortado
+    spriteName: ArbolCortado
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ef9374011581c6441a12571ac737d23b
+    layerID: 375
+    mosaicPosition: {x: 1932, y: 455}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tronco
+    spriteName: Tronco
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 750587cd2235a824fbf463c17ea4859d
+    layerID: 372
+    mosaicPosition: {x: 1932, y: 1894}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Lago
+    spriteName: Lago
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5741f5a53cecbf143bd36195de081a99
+    layerID: 331
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Arbustos
+    spriteName: Arbustos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ac6804a38898f0c4fa16af2c149aa566
+    layerID: 329
+    mosaicPosition: {x: 1756, y: 2974}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Camino
+    spriteName: Camino
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 092fb92b7f598bd4dbefa419ac676022
+    layerID: 332
+    mosaicPosition: {x: 4, y: 2180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bosque
+    spriteName: Bosque
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 559f214ee52810f439ccc2222ea6820d
+    layerID: 367
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Color
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cb9be7f5fe7725440a381b841e685ef6
+    layerID: 324
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arboles Fondo
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: dc13a7dc284dc2d48b7672b0ca7b7857
+    layerID: 248
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arbol
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: f4ffd855821f33a409df89f1f571e659
+    layerID: 260
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ArbolCaido
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 94f2e46482e1fe14a8a7f5ac207deead
+    layerID: 319
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol33
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 1829a11b9ebcf2d4c8df11096ff347c1
+    layerID: 299
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol32
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 17b9ee30f15a9b64bb774308b9c2e796
+    layerID: 294
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol31
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 5e67246471d88d94fba5ddd253bdbc5b
+    layerID: 293
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol30
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: ce3042f530d2c00498f5bddd3c9542c4
+    layerID: 292
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol29
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 0a4edf3046ca7064fbf903967febd72d
+    layerID: 291
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol28
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 439c56d0e0ece5944b361f31e564c1e2
+    layerID: 290
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol27
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: c8a6fa072b8a3a8489ffb7f7b1224058
+    layerID: 286
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol26
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 966979351dadb9347a740889f3268a58
+    layerID: 285
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol25
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 706183250c8068d4a8b9881ffc3974c1
+    layerID: 284
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol24
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: d7a6828cc19724648bd82338727113e7
+    layerID: 283
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol23
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 358a2a674c87ac5459138a74b4caceca
+    layerID: 282
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol21
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: ec91893a352359641a49e56ab9509c17
+    layerID: 280
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol20
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: edd671fcd46f8c348ba883ca1cf98aa0
+    layerID: 279
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol19
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: fac7bb5fa46e5ef4ca26bdf3154f50ee
+    layerID: 278
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol18
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 0b1094fa8d29cfd4c9012cd9e7ebdaee
+    layerID: 277
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol17
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: f33e0ef9f85cc2644bf29caa995cc737
+    layerID: 276
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol16
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: ebb0bf0074b6d8d4ab7c67e389663f54
+    layerID: 275
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol15
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 85bb72d2a9c5e5842afd6c2a778fcb69
+    layerID: 267
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol14
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 5b333e744288db04e960251dd9e3e357
+    layerID: 266
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol13
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 2506386f42cc11d48ab7dcf2184b9846
+    layerID: 265
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol12
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 98ea098ad2860304a88b2c160e4ffeb1
+    layerID: 264
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol11
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: e9658b634648c884ebbd0b37923292f2
+    layerID: 263
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: c6b55e8d17776294189cc28edac37e97
+    layerID: 262
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: c99a905aea8988348955a75d7433d473
+    layerID: 254
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 9acc86e39292de948b39b92a6d3144b6
+    layerID: 253
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: ce938e1c64cd3724c9d5db4c87451cab
+    layerID: 252
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: c26ccb30e68c2414782d11247d11d09c
+    layerID: 322
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 4c4c8090411119048b401de1a6629b95
+    layerID: 321
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 88af853aed6323f469a177d5923bb5cf
+    layerID: 247
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: b78f5ae9d6ea7f747b86c4a703e8f2db
+    layerID: 246
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 4af745d8d0d35784bb124a6edb3e117c
+    layerID: 245
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: aafa707feb326f647b9ca7cc4dad9c15
+    layerID: 320
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbol0
+    spriteName: 
+    isGroup: 0
+    parentIndex: 15
+    spriteID: bfd33ea588462944c899f8eef433be11
+    layerID: 234
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Horizonte
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3f11427c05f0d904a8dc55bdec937c5d
+    layerID: 295
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Camino
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: be893edd68edf5b43936509b104514a7
+    layerID: 221
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Lago
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 840f426ffa27305489cb476f8f170d4f
+    layerID: 300
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arbustos Fondo
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 44fbb777a97c02442945d7dbaa3983f3
+    layerID: 302
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arbustos3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 9e872cda01edca04d94b50c6a702b91e
+    layerID: 298
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbustos2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 94ef8b5fcd0d85242ad2fd00f52e2c24
+    layerID: 297
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbustos1
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: 8e92b1eedc3e7c944be88cd3589ac785
+    layerID: 296
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbustos0
+    spriteName: 
+    isGroup: 0
+    parentIndex: 54
+    spriteID: bf257ffbabd655349aa36ef242f84bf1
+    layerID: 223
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Color
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 90d2d6998ad2d694e95cf60daca244cf
+    layerID: 317
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Color
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9463807313397f04ebba76e5e60884db
+    layerID: 301
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Relleno degradado 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bc9201aa4089cde49877cb572f70af50
+    layerID: 311
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Capa 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e368a02e60c4236469113359340afba0
+    layerID: 307
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Relleno degradado 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5fca1e8c32efcab4b9babb99a32349b5
+    layerID: 306
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bosque
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c11bfabffcda339469f48396ad4dde7d
+    layerID: 218
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Lineas
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 47b386391e928784a9a418a28a0e673e
+    layerID: 244
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arbustos
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8f6c56caf1ad8ba4c92f261b3213557d
+    layerID: 217
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Dibujo Final
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d4aa041bdc7dc9b4d9102d89d728af63
+    layerID: 216
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Dibujo Final
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1cc76e7dde4d4094b958b652eacb478d
+    layerID: 219
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bosque
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: b954d4c341c16874282a69eee0e8c066
+    layerID: 144
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Arbustos
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: 12ee5a011d9142a4b85476e52db1f479
+    layerID: 189
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Dibujo Final
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: c12422136f32c614da797a8c17b54942
+    layerID: 52
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Camino
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 301752598a86962469069ce6c33590fd
+    layerID: 39
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arbustos
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1d3cb3d08d9d01a4fb391927745deb86
+    layerID: 32
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Lago
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f48c3f8fb12f21a44b17292f51028813
+    layerID: 30
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bloques
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1f96248988903c74eaa18802ee71326b
+    layerID: 175
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Bloques
+    spriteName: 
+    isGroup: 0
+    parentIndex: 75
+    spriteID: 0bc599e2f21615f45a1ce0995f5a6d21
+    layerID: 188
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bloques
+    spriteName: 
+    isGroup: 0
+    parentIndex: 75
+    spriteID: b6c51dc5f32dd434d94bb0a74a9bcabc
+    layerID: 187
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bloques
+    spriteName: 
+    isGroup: 0
+    parentIndex: 75
+    spriteID: e209632e782003d49880757ce6e41a03
+    layerID: 186
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bloques
+    spriteName: 
+    isGroup: 0
+    parentIndex: 75
+    spriteID: 0c5094056ac999f4db30a4b79add4762
+    layerID: 185
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bloques
+    spriteName: 
+    isGroup: 0
+    parentIndex: 75
+    spriteID: 85eedf0a1a8a89e4d86e4e598f7f4ac1
+    layerID: 184
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bloques
+    spriteName: 
+    isGroup: 0
+    parentIndex: 75
+    spriteID: f7f14e966b08ad5499054932f46abcf6
+    layerID: 183
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bloques
+    spriteName: 
+    isGroup: 0
+    parentIndex: 75
+    spriteID: 4606bcd11cfe58748b4dc39f3118a997
+    layerID: 169
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bloques
+    spriteName: 
+    isGroup: 0
+    parentIndex: 75
+    spriteID: 850f884e4311c94418eb405a4a5b999e
+    layerID: 168
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Lineas Perspectiva
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 433e9252a9e1b0446a1cd841a254a2a1
+    layerID: 51
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Lineas horicontales
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d895c14e413c1ff4fb39b424a54aca7f
+    layerID: 29
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arboles
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a13ac6ca57f3ff04eaf9ed01bdccd13f
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Sprites
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 307b1c75e661d05438a85fd72df8e3dd
+    layerID: 205
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Camino
+    spriteName: 
+    isGroup: 0
+    parentIndex: 87
+    spriteID: 8f2fcdaf18908f54989a57d0b50d035e
+    layerID: 208
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Lago
+    spriteName: 
+    isGroup: 0
+    parentIndex: 87
+    spriteID: 21eb22854ac8f2a418fd1f42749104ff
+    layerID: 209
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arbol
+    spriteName: 
+    isGroup: 0
+    parentIndex: 87
+    spriteID: 302ed7ba54d917845986ca74a3458b5d
+    layerID: 202
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Arbusto
+    spriteName: 
+    isGroup: 0
+    parentIndex: 87
+    spriteID: 49d51c00e35d4ef4f9c362ada4733d87
+    layerID: 204
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Color
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 424349d119e574e4d974f1f6bdee2d29
+    layerID: 145
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Fondo
+    spriteName: Fondo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eb0ec6464f9a0784f88929cc2883c7ac
+    layerID: 1
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
